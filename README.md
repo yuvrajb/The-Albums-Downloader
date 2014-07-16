@@ -43,7 +43,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 Contact
 =======
 
-LinkedIn: http://in.linkedin.com/in/yuvrajbabrah
-Facebook: https://facebook.com/yuvraj.babrah
-Twitter: https://twitter.com/yuvrajb
-Codeplex: https://www.codeplex.com/site/users/view/yuvrajb
+* LinkedIn: http://in.linkedin.com/in/yuvrajbabrah
+* Facebook: https://facebook.com/yuvraj.babrah
+* Twitter: https://twitter.com/yuvrajb
+* Codeplex: https://www.codeplex.com/site/users/view/yuvrajb
