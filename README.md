@@ -14,7 +14,7 @@ Java 1.4 or more and Internet Connectivity
 Instructions
 ============
 
-1. Fetch Access Tokens from Facebook via http://tad.eu5.org (Your credentials will not be saved anywhere)
+1. Fetch Access Tokens from Facebook via http://tad.hostei.com (Your credentials will not be saved anywhere)
 2. Open the application and enter the token value.
 3. If this is your first access, then the application will ask you to whether load the images for thumbnails. Select as you desire.
 4. Search for friend via the search box or click on the friend tile to view his/her albums.
